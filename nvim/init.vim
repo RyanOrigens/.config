@@ -19,7 +19,7 @@ Plug 'https://github.com/preservim/tagbar'
 Plug 'https://github.com/ap/vim-css-color'
 Plug 'https://github.com/rafi/awesome-vim-colorschemes'
 Plug 'https://github.com/ryanoasis/vim-devicons'
-Plug 'https://github.com/neoclide/coc.nvim' " For Autocompleting N
+" Plug 'https://github.com/neoclide/coc.nvim' " For Autocompleting N
 Plug 'https://github.com/Yggdroot/indentLine'
 Plug 'https://github.com/lordm/vim-browser-reload-linux'
 Plug 'https://github.com/vimwiki/vimwiki'
