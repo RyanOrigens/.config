@@ -31,8 +31,6 @@ nnoremap <silent> <expr> <C-F> g:NERDTree.IsOpen() ? "\:NERDTreeClose<CR>" : buf
 " Goyo Toggle
 nnoremap <silent> <C-K> :Goyo<CR>
 
-colorscheme delek
-
 call plug#end()
 
 " Programming Dictionary
